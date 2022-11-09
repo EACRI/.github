@@ -5,6 +5,7 @@ TEAM
 - Brady Bernard
 - Joe Fass
 - Venkatesh Rajamanickam 
+- Noah Simons
 - Joe Slagel
 - Jake VanCampen
 - Natalie Elphick
