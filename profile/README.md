@@ -8,5 +8,4 @@ TEAM
 - Noah Simons
 - Joe Slagel
 - Jake VanCampen
-- Natalie Elphick
 - Wesley Rosales
