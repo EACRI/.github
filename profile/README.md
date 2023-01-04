@@ -7,5 +7,4 @@ TEAM
 - Venkatesh Rajamanickam 
 - Noah Simons
 - Joe Slagel
-- Jake VanCampen
 - Wesley Rosales
